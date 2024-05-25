@@ -10,8 +10,8 @@ data:
   # The image types that will be recorded
   images:
     rgb: True
-    depth: False
-    mask: False
+    depth: True
+    mask: True
     point_cloud: True
   # The cameras that we will be enabled
   cameras:

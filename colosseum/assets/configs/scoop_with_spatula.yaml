@@ -15,10 +15,10 @@ data:
     point_cloud: True
   # The cameras that we will be enabled
   cameras:
-    left_shoulder: True
-    right_shoulder: True
-    overhead: True
-    wrist: True
+    left_shoulder: False
+    right_shoulder: False
+    overhead: False
+    wrist: False
     front: True
   # Store depth as 0 - 1
   depth_in_meters: False

@@ -24,7 +24,7 @@
         {
             "spreadsheet_idx": 1,
             "variation_name" : "all_mixed",
-            "enabled": true,
+            "enabled": false,
             "variations": [
                 {"type": "object_color", "name": "manip_obj_color", "enabled": true},
                 {"type": "object_color", "name": "recv_obj_color", "enabled": true},
@@ -45,7 +45,7 @@
         {
             "spreadsheet_idx": 2,
             "variation_name" : "manip_obj_color",
-            "enabled": true,
+            "enabled": false,
             "variations": [
                 {"type": "object_color", "name": "manip_obj_color", "enabled": true},
                 {"type": "object_color", "name": "recv_obj_color", "enabled": false},
@@ -66,7 +66,7 @@
         {
             "spreadsheet_idx": 3,
             "variation_name" : "recv_obj_color",
-            "enabled": true,
+            "enabled": false,
             "variations": [
                 {"type": "object_color", "name": "manip_obj_color", "enabled": false},
                 {"type": "object_color", "name": "recv_obj_color", "enabled": true},
@@ -171,7 +171,7 @@
         {
             "spreadsheet_idx": 8,
             "variation_name" : "light_color",
-            "enabled": true,
+            "enabled": false,
             "variations": [
                 {"type": "object_color", "name": "manip_obj_color", "enabled": false},
                 {"type": "object_color", "name": "recv_obj_color", "enabled": false},
@@ -192,7 +192,7 @@
         {
             "spreadsheet_idx": 9,
             "variation_name" : "table_color",
-            "enabled": true,
+            "enabled": false,
             "variations": [
                 {"type": "object_color", "name": "manip_obj_color", "enabled": false},
                 {"type": "object_color", "name": "recv_obj_color", "enabled": false},
@@ -213,7 +213,7 @@
         {
             "spreadsheet_idx": 10,
             "variation_name" : "table_texture",
-            "enabled": true,
+            "enabled": false,
             "variations": [
                 {"type": "object_color", "name": "manip_obj_color", "enabled": false},
                 {"type": "object_color", "name": "recv_obj_color", "enabled": false},
@@ -234,7 +234,7 @@
         {
             "spreadsheet_idx": 11,
             "variation_name" : "distractor",
-            "enabled": true,
+            "enabled": false,
             "variations": [
                 {"type": "object_color", "name": "manip_obj_color", "enabled": false},
                 {"type": "object_color", "name": "recv_obj_color", "enabled": false},
@@ -255,7 +255,7 @@
         {
             "spreadsheet_idx": 12,
             "variation_name" : "background_texture",
-            "enabled": true,
+            "enabled": false,
             "variations": [
                 {"type": "object_color", "name": "manip_obj_color", "enabled": false},
                 {"type": "object_color", "name": "recv_obj_color", "enabled": false},
@@ -297,7 +297,7 @@
         {
             "spreadsheet_idx": 14,
             "variation_name" : "camera_pose",
-            "enabled": true,
+            "enabled": false,
             "variations": [
                 {"type": "object_color", "name": "manip_obj_color", "enabled": false},
                 {"type": "object_color", "name": "recv_obj_color", "enabled": false},
@@ -318,7 +318,7 @@
         {
             "spreadsheet_idx": 15,
             "variation_name" : "rlbench_and_colosseum",
-            "enabled": true,
+            "enabled": false,
             "variations": [
                 {"type": "object_color", "name": "manip_obj_color", "enabled": true},
                 {"type": "object_color", "name": "recv_obj_color", "enabled": true},
@@ -339,7 +339,7 @@
         {
             "spreadsheet_idx": 16,
             "variation_name" : "friction",
-            "enabled": true,
+            "enabled": false,
             "variations": [
                 {"type": "object_color", "name": "manip_obj_color", "enabled": false},
                 {"type": "object_color", "name": "recv_obj_color", "enabled": false},
@@ -360,7 +360,7 @@
         {
             "spreadsheet_idx": 17,
             "variation_name" : "mass",
-            "enabled": true,
+            "enabled": false,
             "variations": [
                 {"type": "object_color", "name": "manip_obj_color", "enabled": false},
                 {"type": "object_color", "name": "recv_obj_color", "enabled": false},
