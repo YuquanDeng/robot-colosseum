@@ -253,7 +253,7 @@ def run(
     rlbench_env = EnvironmentExt(
         action_mode=MoveArmThenGripper(
             arm_action_mode=JointVelocity(), gripper_action_mode=Discrete()
-        ),
+        ),  
         obs_config=ObservationConfigExt(data_cfg),
         headless=True,
         path_task_ttms=TASKS_TTM_FOLDER,
